@@ -24,4 +24,5 @@ This task was assigned for Mobile App Scripting(MAST5112) module.The purpose of 
 The one problem i had while doing this was intially linking the files together, i had been confused for most of the process but had to retrace what we did in class to finally link the 2.Once the profiles where linked the process had become easier.
 
 #### Screenshot Of the working Blank App with Greeting:
+"C:\Users\lab_services_student\Pictures\Screenshots\Screenshot 2025-07-28 131426.png"
 
